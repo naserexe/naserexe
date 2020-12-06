@@ -1,5 +1,5 @@
 ### My name is Abdullah Naser
-#### MERN Stack web Application Decveloper 
+#### MERN Stack Web Application Developer 
 I am a person who is very passionate about software development since my childhood. I am a capable and adaptable person who is looking forward to learning new techniques, skills, and methods in order to gain experience that can be used in a career in the near and distant future.
 - 🌱 I’m currently working on an e-commerce projects with our team to gain experience. 
 - 💬 Ask me about Anything 
