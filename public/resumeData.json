@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Shohedul",
+    "name": "Abdullah Naser",
     "occupation": " Full Stack  web application Developer",
     "description": "(MERN Stack)",
-    "image": "shohedul.JPG",
-    "bio": "My name is Shohedul, I'm a Full Stack web application Developer. Currently I'm learning state.I have a intermediate experience in HTML5, CSS3, JavaScript,wordpress customization, node.js React, express.js, MongoDB, git and also know Project Management Tool jira and Agile software development.I am a person who has a remarkable proven ability to work under pressure, to plan and prioritize work. I am a capable and adaptable person who is looking forward to learn new working skills and methods in order to gain experience that can be used in a career in the near and distant future.",
+    "image": "naser.JPG",
+    "bio": "My name is Abdullah Naser, I'm a Full-Stack web application Developer. Currently, I'm doing some of my hobby projects and working on e-commerce application with a team. I have intermediate experience in JavaScript, node.js, express.js, MongoDB, git, ReactJS, HTML5, CSS3 and also I know the basics about Project Management Tool JIRA and Agile software development. I am a person who is very passionate about software development since my childhood. I am a capable and adaptable person who is looking forward to learning new techniques, skills, and methods in order to gain experience that can be used in a career in the near and distant future.",
     "contactmessage": "Get in touch with me to receive further details anything else.",
-    "email": "shohedul350@gmail.com",
-    "phone": "+8801303029065",
+    "email": "abdnaser.exe@gmail.com",
+    "phone": "+88 01703-943324",
     "address": {
-      "street": "Osmanpur,Pirganj,Rangpur",
+      "street": "Meherpur, Khulna",
       "city": "Dhaka",
       "state": "Bangladesh",
-      "zip": ""
+      "zip": "7110"
     },
     "website": "https://learncodejs.blogspot.com/",
-    "resumedownload": "https://gitconnected.com/shohedul350/resume",
+    "resumedownload": "https://gitconnected.com/naser4100/resume",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/shohedul350",
+        "url": "https://www.facebook.com/naser4100",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/shohedul350/",
+        "url": "https://www.linkedin.com/in/naser4100/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/shohedul350/",
-        "className": "fa fa-instagram"
+        "name": "twitter",
+        "url": "https://www.twitter.com/naser4100/",
+        "className": "fa fa-twitter"
       },
       {
         "name": "github",
-        "url": "http://github.com/shohedul350",
+        "url": "http://github.com/naser4100",
         "className": "fa fa-github"
       }
     ]
@@ -43,22 +43,16 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "Jhenaidah Polytechnic Institute",
-        "degree": "Diploms in Computer Science",
-        "graduated": "july 2020",
-        "description": "Graduated with Distinction"
+        "school": "Nerddevs Ltd.",
+        "degree": "Industrial Training",
+        "graduated": "April 2020",
+        "description": "Web application development using node.js"
       },
       {
-        "school": "Nerdevs",
-        "degree": "web application development using node.js",
-        "graduated": "Running",
-        "description": ""
-      },
-      {
-        "school": "Rural Reconstruction Foundation",
-        "degree": "Web Site Design and Development",
-        "graduated": "september 2018",
-        "description": "Ref.No:RRF_BB-WDD-B3-014.Certificate No:6970"
+        "school": "Jhenaidah Polytechnic Institute, Jhenaidah",
+        "degree": "Diploma in engineering",
+        "graduated": "July 2020",
+        "description": "Computer Technology"
       }
     ],
 
@@ -66,32 +60,32 @@
     "work": [
       {
         "company": "",
-        "title": "I have Zero on the job experience but i have experience in MERN stack project base work",
+        "title": "I have Zero on the job experience but I have experience in MERN stack project base work",
         "years": "",
         "description": ""
       }
-     
+    
     ],
     "skills": [
       {
         "name": "node.js",
-        "level": "40%"
+        "level": "75%"
       },
       {
         "name": "Express.js",
-        "level": "40%"
+        "level": "85%"
       },
       {
         "name": "MongoDB",
-        "level": "40%"
+        "level": "80%"
       },
       {
         "name": "React.js",
-        "level": "40%"
+        "level": "85%"
       },
       {
         "name": "Git",
-        "level": "40%"
+        "level": "60%"
       }
     
     ]
@@ -99,70 +93,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Point of sale",
-        "category": "busness solution de built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Point of Sale",
+        "category": "Built with the MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "pos.png",
-        "url": "http://mern-pos.herokuapp.com/demo-login"
+        "url": "https://mern-pos.herokuapp.com/demo-login"
       },
       {
-        "title": "MERN Stack ERP Solution",
-        "category": "ERP Busness solution demo built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "erp.png",
-        "url": "https://erp-app.herokuapp.com/"
+        "title": "Halal food e-commerce",
+        "category": "Fully functional e-commerce application built with the MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "hala-food-homepage.png",
+        "url": "https://halal-food.herokuapp.com/"
       },
       {
-        "title": "MERN Stack E-commerce",
-        "category": "E-commerce demo built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "e-commerce.png",
-        "url": "https://bestchoice-online-shop.herokuapp.com/"
+        "title": "Hostel meal calculation",
+        "category": "Calculate the hostel cost built with MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "hostel-meal.png",
+        "url": "https://hostel-meal-calc.herokuapp.com/"
       },
       {
-        "title": "Full Stack Node Blog",
-        "category": "Node-blog  built with  (MongoDB, ExpressJS, ejs, NodeJS)",
-        "image": "node-blog.png",
-        "url": "https://node-bloger.herokuapp.com/"
-      },
-      {
-        "title": "MERN Stack Contact note",
-        "category": "built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "contactNode.png",
-        "url": "https://contact-note.herokuapp.com/"
-      },
-      {
-        "title": "MERN Stack Website note",
-        "category": "built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "website-note.png",
-        "url": "https://website-note.herokuapp.com/"
-      },
-      {
-        "title": "MERN Stack realtime Chat app",
-        "category": "built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS,socket.io)",
-        "image": "chat-app.png",
-        "url": "https://chatme-live.herokuapp.com"
-      },
-      {
-        "title": "React Corona tracker",
-        "category": "built with Recat and using api",
-        "image": "corona-tracker.png",
-        "url": "https://corona-tracke.netlify.app/"
-      }
-      ,
-      {
-        "title": "contact me",
-        "category": "built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS,nodemailer)",
-        "image": "mailsend.png",
-        "url": "https://contactme-app.herokuapp.com/"
+        "title": "Restaurant inventory",
+        "category": "Track restaurant inventory built with MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "res.png",
+        "url": "https://res-invt.herokuapp.com/"
       }
     ]
   
   },
   "testimonials": {
     "testimonials": [
-      {
-        "text": "Fantastic work! I am just impressed by your service quality and working strategy.",
-        "user": "Hassan"
-      }
-     
     ]
   }
 }
